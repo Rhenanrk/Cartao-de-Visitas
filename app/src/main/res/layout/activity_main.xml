@@ -82,20 +82,20 @@
         android:src="@drawable/twitter" />
 
     <TextView
-        android:id="@+id/insta"
+        android:id="@+id/git"
         android:layout_width="wrap_content"
         android:layout_height="49dp"
         android:layout_alignStart="@+id/twitter"
         android:layout_below="@+id/twitter"
-        android:text="rhenank"
+        android:text="rhenanrk"
         android:textSize="17dp" />
 
     <ImageView
-        android:id="@+id/imagemInsta"
+        android:id="@+id/imagemGit"
         android:layout_width="40dp"
         android:layout_height="40dp"
         android:layout_below="@+id/twitter"
         android:layout_toStartOf="@+id/Nome"
-        android:src="@drawable/insta" />
+        android:src="@drawable/git" />
 
 </RelativeLayout>
